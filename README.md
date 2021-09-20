@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aamir-mz
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Web and app devvelopment
+- 💞️ I’m looking to collaborate on Front End Web Development Project
+- 📫 How to reach me Discord iRone_KING_👑#1528
